@@ -1,0 +1,17 @@
+userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+mobile: false
+throttleSettings:
+  cpuSlowdownMultiplier: 4
+  rttMs: 150
+  throughputKbps: 1000
+cookies:
+  - name: cookie_name
+    value: cookie_value
+    domain: example.com
+taskList:
+  - key: task1
+    title: 掘金1
+    url: https://juejin.cn/bots
+  - key: task2
+    title: 掘金2
+    url: https://juejin.cn/pins
